@@ -3,7 +3,7 @@
 body {
   margin: 0 auto;
   max-width: 100%;
-  line-height: 1.5;
+  line-height: 2;
   padding: 4em 1em;
   background-color: black;
   color: #FFF1E8;
@@ -15,10 +15,12 @@ body {
 
   font-family: 'Press Start 2P';
   letter-spacing: .2rem;
+
 }
 
 #main {
 	max-width: 75%;
+	height: 100%;
 	background-color: black;
 	margin: auto;
 	padding: 5%;
@@ -28,7 +30,7 @@ body {
 h1, h2 {
   text-align: center;
   color: #FF77A8;
-  font-size: 2em;
+  font-size: 2.5em;
   letter-spacing: .4rem;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
@@ -40,6 +42,7 @@ a {
 
 p {
 	max-width: 75%;
+	font-size: 1em;
 	margin: auto;
 }
 
@@ -50,3 +53,12 @@ ul{
 	margin-top: 2em;
 	list-style-type: none;
 }
+
+img {
+	margin-top: 2em;
+	width: 25%;
+	float: left;
+	margin-right: 2em;
+}
+
+span.clear { clear: left; display: block; }
