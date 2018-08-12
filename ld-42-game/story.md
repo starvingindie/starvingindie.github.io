@@ -7,10 +7,6 @@
 
 
 ## SCENE ONE
-<div class="items">
-	
-</div>
-
 <img src="images/apartmentDemonsPortrait.png">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
 
 - [Get rid of the Demons](/scene-two)
@@ -22,11 +18,8 @@
 
 
 ## SCENE TWO
-<div class="items">
-
-</div>
-
-Yeah, these demons need to go. The last time they invaded your house you used a magical Source Key to get them to leave. You quickly scan your room, but it's a mess. It's cluttered with a bunch of figurines and video games. You can't remember where you left that Source Key!
+<img src="images/kitchen_ghoul.png">
+Yeah, these demons and ghouls need to go. The last time they invaded your house you used a magical Source Key to get them to leave. You quickly scan your room, but it's a mess. It's cluttered with a bunch of figurines and video games. You can't remember where you left that Source Key!
 
 - [Look for the source key](/scene-three)
 - [Craft a brand new Source Key](/scene-three-alternate)
@@ -35,11 +28,6 @@ Yeah, these demons need to go. The last time they invaded your house you used a 
 
 
 ## SCENE THREE
-<div class="items">
-
-</div>
-
-
 You go in search for the Source Key. Ugh! This apartment is a mess. It's becoming difficult to even move around with all the clutter. The demons know you're searching for the Source Key. 
 
 <img src="images/landscape_bathroom2.png">
@@ -55,10 +43,6 @@ Suddenly, your teleported into the bathroom. The door locks behind you. Just gre
 
 
 ## SCENE FOUR
-<div class="items">
-
-</div>
-
 <img src="images/mirrorPortrait.png">
 
 As you reach for the door, you hear a demonic voice from behind you. It sounds just like you. You turn to see an enraged bathroom mirror trying to hypnotize you into its black infinite abyss... You try to resist, but the mirror's hypnotizing voice is so soothing....
@@ -72,10 +56,6 @@ As you reach for the door, you hear a demonic voice from behind you. It sounds j
 
 
 ## SCENE FIVE
-<div class="items">
-
-</div>
-
 <img src="images/shardsIcon.png">
 
 You wrap a towel around your hand and punch the bathroom mirror as hard as you can! SMASH! Shards of the mirror fall to the ground... but suddenly they start to float upwards. Crap. The Evil Mirror Shards look like they're going to attack with lightning speed!
@@ -96,10 +76,6 @@ You try to dodge all the shards, but it's useless. They all fly at you too fast 
 
 
 ## SCENE SIX
-<div class="items">
-
-</div>
-
 <img src="images/voidPanel1.png">
 You capture one of the shards out of the air and reflect it back at the mirror. The mirror becomes so confused that it begins to implode... BUT, in it's existential break down, it's trying to suck you into it's black reflective void.
 
@@ -129,10 +105,6 @@ You try to hold on to the door handle, but the door is obviously a demon and cho
 
 
 ## SCENE SEVEN
-<div class="items">
-
-</div>
-
 <img src="images/toiletIcon.png">
 As you're being sucked into the void, you lift the toilet seat up, turn on all the faucets and the shower. For a brief moment you're sucked into the void with all the water, but then the mirror coughs you out as it drowns on all the water it's inhaling.
 
@@ -147,7 +119,7 @@ You can now use this item... With the Evil Mirror defeated, you escape the bathr
 
 - [>](/scene-eight)
 
----
+
 
 <span class="clear"></span>
 
@@ -222,12 +194,12 @@ GREAT THINKING! You smash the window open with the drain pipe! Immediately you s
 <span class="clear"></span>
 
 ## PRIZE TWO
-
+<img src="images/keyIcon02.png">
 You gained the source key!
 
 - [>](/scene-eleven)
 
----
+
 
 <span class="clear"></span>
 
@@ -314,7 +286,7 @@ You've earned a sword!!
 
 - [>](/scene-fourteen)
 
----
+
 
 <span class="clear"></span>
 
@@ -391,7 +363,7 @@ You exit your apartment, lock the door behind you and head off to meet your date
 
 CONGRATULATIONS YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
 
----
+
 
 
 <!--
@@ -438,7 +410,7 @@ You go looking for your cat. To your horror, you catch a glimpse of Mochi just a
 
 - ["This is not how I thought tonight would go..."](/scene-seventeen)
 
----
+
 
 <span class="clear"></span>
 
@@ -512,7 +484,7 @@ You've found a drain pipe, a key, a sword, a $5 bill and a lazer pointer in the 
 
 - [>](/scene-twenty)
 
----
+
 
 <span class="clear"></span>
 
@@ -627,7 +599,7 @@ Mochi shrunk back down! You now have a cat soul to trade!
 
 - [>](/scene-twenty-three)
 
----
+
 
 <span class="clear"></span>
 
@@ -727,7 +699,7 @@ You offer the Demons the $5 bill you found in the couch. They're quick to snatch
 
 [>](/scene-fourteen)
 
----
+
 
 
 <!--
@@ -739,9 +711,6 @@ You offer the Demons the $5 bill you found in the couch. They're quick to snatch
 
 
 ## SCENE THREE ALTERNATE
-<div class="items">
-
-</div>
 
 <img src="images/kitchenDevilCoffeeMachine.gif">
 This apartment is so cluttered, who knows where the key could be. Maybe it's better to just craft the Source Key instead of go looking for it. As you head to the kitchen to grab the ingredients, it goes up in a blaze of fire. An angry Kitchen Devil (a coffee maker) appears.
@@ -756,16 +725,12 @@ You go to unplug the annoying Kitchen Devil, but as you get closer the fire gets
 - [Search for water in the bathroom](/scene-twenty-six)
 
 
----
+
 
 <span class="clear"></span>
 
-
 ## SCENE TWENTY-SIX
-<div class="items">
-
-</div>
-
+<img src="images/sinkSlugPortrait.gif">
 You go to the bathroom in search of water, but when you turn on the faucet a bunch of Demon Slugs slither out. GROSS! They're poisonous and are making their way towards you. They have to have a weakness of some kind...
 
 - [Probably fire](/scene-twenty-seven)
@@ -784,10 +749,7 @@ What did I just say!? They're poisonous! You pick them up with your bare hands a
 
 
 ## SCENE TWENTY-SEVEN
-<div class="items">
-
-</div>
-
+<img src="images/remoteTorchIcon.png">
 You race back to the living room and grab a shirt. You wrap it around your remote and light it on fire using the flames from the kitchen. When you turn around the whole apartment is infested with these poisenous slugs. Ugh! Leaving the faucet running is a bad habit.
 
 - [Burn this baby down!](/scene-twenty-eight)
@@ -805,10 +767,6 @@ Yeah, that's not gonna work. You see, like I said, these are poisonous slugs. Th
 
 
 ## SCENE TWENTY EIGHT
-<div class="items">
-
-</div>
-
 <img src="images/toilet.png">
 You light your whole apartment on fire. Not exactly solving the problem, but it's some progress. With the slugs burning to death, you go to the bathroom and rip out the toilet, causing a massive flood in your apartment.
 
@@ -817,39 +775,52 @@ You light your whole apartment on fire. Not exactly solving the problem, but it'
 <span class="clear"></span>
 
 ## PRIZE SIX
+<div class="chest">
+	<img src="images/pipeIcon.png">
+	<img src="images/emptyBottleIcon.png">
+	<img src="images/soapIcon.png">
+</div>
+<span class="clear"></span>
 You found an empty bottle in your medicine cabinet, a Drain Pipe and a Soap Bar! Yay!
 
 - [>](/scene-twenty-nine)
 
----
+
 
 <span class="clear"></span>
 
 
 ## SCENE TWENTY-NINE
 <div class="items">
-
+	<a href="/death-twenty-four"><img src="images/pipeIcon.png"></a>
+</div>
+<div class="items">
+	<a href="/scene-thirty"><img src="images/emptyBottleIcon.png"></a>
+</div>
+<div class="items">
+	<img src="images/soapIcon.png">
 </div>
 
 You head back to the kitchen, but the you discover the flood was not enough to kill the Kitchen Devil Coffee Maker! He laughs at you, as he continues to burn down your kitchen. Jerk! If there was only a way to throw water on him!
-
-- [ITEM: TOILET WATER](/scene-thirty)
-- [ITEM: DRAIN PIPE](/death-twenty-four)
 
 <span class="clear"></span>
 
 
 ## SCENE THIRTY
 <div class="items">
-
+	<a href="/death-twenty-three"><img src="images/pipeIcon.png"></a>
+</div>
+<div class="items">
+	<a href="/death-twenty-two"><img src="images/emptyBottleIcon.png"></a>
+</div>
+<div class="items">
+	<a href="/scene-thirty-one"><img src="images/soapIcon.png"></a>
 </div>
 
 <img src="images/geniusIcon02.png">
-GREAT THINKING! You fill your empty bottle with toilet water and throw it at the Coffee Maker. The gross toilet water immediately nullifies him! Now you just need to remember how to mold a Source Key...
+GREAT THINKING! 
 
-- [ITEM: SOAP BAR](/scene-thirty-one)
-- [ITEM: TOILET WATER](/death-twenty-two)
-- [ITEM: DRAIN PIPE](/death-twenty-three)
+You fill your empty bottle with toilet water and throw it at the Coffee Maker. The gross toilet water immediately nullifies him! Now you just need to remember how to mold a Source Key...
 
 <span class="clear"></span>
 
@@ -882,7 +853,7 @@ You throw your drain pipe at the Kitchen Devil Coffee Maker! It's not effective.
 
 ## SCENE THIRTY ONE
 <div class="items">
-
+	<img src="images/pipeIcon.png">
 </div>
 
 <img src="images/geniusIcon03.png">
@@ -901,9 +872,6 @@ GREAT THINKING! You use the soap bar and some utensils from the kitchen to craft
 
 
 ## SCENE FOUR ALTERNATE
-<div class="items">
-
-</div>
 
 <img src="images/showerHose.gif">
 
@@ -915,9 +883,6 @@ You begin searching for a way out of the bathroom, when suddenly the walls begin
 
 
 ## SCENE-THIRTY-TWO
-<div class="items">
-
-</div>
 
 You try to break free from the strangling shower hose, but the more you struggle the more it tightens around your neck. You feel the breath leave your body slowly...
 
@@ -936,9 +901,6 @@ You try to pry yourself free... Not a good idea. Like I said, the more you strug
 
 
 ## SCENE-THIRTY-THREE
-<div class="items">
-
-</div>
 
 You try to reach for the mirror so you can break it and use the glass shards to escape the death grip. Unfortunately, the shower hose pulls you into the bathtub like forceful vines. Your hands streak across your window as you take your final breath...
 
@@ -957,9 +919,6 @@ You reach for the shower knob and turn on the water. Not good. The water is now 
 
 
 ## SCENE-THIRTY-FOUR
-<div class="items">
-
-</div>
 
 <img src="images/windowIcon.png">
 You smash the window, use a glass shard to cut yourself free from cord. You escape through the window and scale the side of your apartment until you enter through your living room window.
@@ -969,6 +928,8 @@ You smash the window, use a glass shard to cut yourself free from cord. You esca
 <span class="clear"></span>
 
 ## PRIZE LAST
+<img src="images/pipeIcon.png">
 In the chaos of a bathroom struggle you found a drain pipe!!
 
-[>](/scene-eight)
+- [>](/scene-eight)
+<span class="clear"></span>
