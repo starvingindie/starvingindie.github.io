@@ -1,12 +1,58 @@
-body {
-  margin: 0 auto;
-  max-width: 50em;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 4em 1em;
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+@font-face{
+	font-family: "SuperScript";
+	src: url("fonts/SUPERSCR.ttf");
 }
 
-h2 {
-  margin-top: 1em;
-  padding-top: 1em;
+body {
+  margin: 0 auto;
+  max-width: 100%;
+  line-height: 1.5;
+  padding: 4em 1em;
+  background-color: black;
+  color: #FFF1E8;
+
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+
+  font-family: 'Press Start 2P';
+  letter-spacing: .2rem;
+}
+
+#main {
+	max-width: 75%;
+	background-color: black;
+	margin: auto;
+	padding: 5%;
+	border: 0.1em solid #FFF1E8;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #FF77A8;
+  font-family: "SuperScript";
+  font-size: 2em;
+  letter-spacing: .4rem;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+a {
+	color: #29ADFF;
+}
+
+p {
+	max-width: 75%;
+	margin: auto;
+}
+
+ul{
+	max-width: 50%;
+	text-align: center;
+	margin: auto;
+	margin-top: 2em;
+	list-style-type: none;
 }
