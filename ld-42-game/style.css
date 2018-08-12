@@ -24,7 +24,9 @@ body {
 	background-color: black;
 	margin: auto;
 	padding: 5%;
-	border: 0.1em solid #FFF1E8;
+	border: 1em solid;
+	text-transform: uppercase; 
+	border-image: url('images/textMessage_uiWindow.png') 27 27 27 27;
 }
 
 h1, h2 {
@@ -62,3 +64,12 @@ img {
 }
 
 span.clear { clear: left; display: block; }
+
+.items {
+  width: 50%;
+  height: 4em;
+  border: .1em solid #FF77A8;
+  margin: auto;
+  margin-bottom: 1em; 
+  
+}
