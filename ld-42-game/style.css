@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
-@font-face{
-	font-family: "SuperScript";
-	src: url("fonts/SUPERSCR.ttf");
-}
-
 body {
   margin: 0 auto;
   max-width: 100%;
@@ -33,7 +28,6 @@ body {
 h1, h2 {
   text-align: center;
   color: #FF77A8;
-  font-family: "SuperScript";
   font-size: 2em;
   letter-spacing: .4rem;
   text-rendering: optimizeLegibility !important;
