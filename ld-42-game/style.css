@@ -66,10 +66,30 @@ img {
 span.clear { clear: left; display: block; }
 
 .items {
-  width: 50%;
+  width: 64px;
   height: 4em;
   border: .1em solid #FF77A8;
   margin: auto;
   margin-bottom: 1em; 
+  display: inline-block;
   
+}
+
+.items img{
+	width: 32px;
+	margin-top: .5em;
+	margin-left: 1em;
+  
+}
+
+.chest {
+	margin: auto;
+	width: 40%;
+}
+
+.chest img{
+	width: 64px;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	margin-left: 1em;
 }

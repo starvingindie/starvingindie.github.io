@@ -8,13 +8,13 @@
 
 ## SCENE ONE
 <div class="items">
-	<p>ITEMS WILL GO IN HERE AS YOU COLLECT THEM</p>
+	
 </div>
 
 <img src="images/apartmentDemonsPortrait.png">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
 
 - [Get rid of the Demons](/scene-two)
-- [Appeal to the Demons](/scene-two-alternate)
+- [Appeal to the Demons](/scene-two-alternate#mochi)
 
 
 
@@ -154,7 +154,7 @@ You can now use this item... With the Evil Mirror defeated, you escape the bathr
 
 ## SCENE EIGHT
 <div class="items">
-
+	<img src="images/pipeIcon.png">
 </div>
 
 Now that you've escaped the bathroom, it's time to search for the Source Key. 
@@ -180,7 +180,7 @@ You try to keep the walls from closing in by prying them open, but they're way t
 
 ## SCENE NINE
 <div class="items">
-
+	<a href="/scene-ten"><img src="images/pipeIcon.png"></a>
 </div>
 
 <img src="images/haunted_window.png">
@@ -188,7 +188,6 @@ You gather up the clutter around your living room and look for a place to chuck 
 
 - [Quick! Look for the Source Key!](/death-five)
 - [Try to unlock the window](/death-six)
-- [ITEM: DRAIN PIPE](/scene-ten)
 
 
 <span class="clear"></span>
@@ -212,7 +211,7 @@ You try to unlock the window, but the window is as stubborn as you remember. The
 
 ## SCENE TEN
 <div class="items">
-
+	<img src="images/pipeIcon.png">
 </div>
 
 <img src="images/geniusIcon01.png">
@@ -235,12 +234,15 @@ You gained the source key!
 
 ## SCENE ELEVEN
 <div class="items">
-
+	<a href="/death-seven"><img src="images/pipeIcon.png"></a>
 </div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+
 
 Now that you have the Source Key, it's time to defeat these damn demons! As you approach them with the Source Key, they keep their distance, but they laugh. They've grown stronger since the last time you've had to deal with them. Much much stronger.
 
-- [ITEM: DRAIN PIPE](/death-seven)
 - [Find a deadly weapon](/scene-twelve)
 
 <span class="clear"></span>
@@ -257,14 +259,16 @@ You try to fight them with your drain pipe, but I wasn't kidding when I said the
 
 ## SCENE TWELVE
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<a href="/scene-thirteen"><img src="images/keyIcon02.png"></a>
 </div>
 
 That's right! You remember there's a sword under your bed. If you can attach the Source Key with the sword, not only can you keep the demons at bay, but you can hack them up too! Only problem, is a hoard of Demons stands between you and your bedroom.
 
 - [Try to climb over the demons](/death-eight)
 - [Try to reason with the demons](/death-nine)
-- [ITEM: SOURCE KEY](/scene-thirteen)
 
 <span class="clear"></span>
 
@@ -287,7 +291,10 @@ You try to reason with demons, but they just laugh at you and then proceed to ri
 
 ## SCENE THIRTEEN
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
 </div>
 
 <img src="images/geniusIcon02.png">
@@ -314,8 +321,15 @@ You've earned a sword!!
 
 ## SCENE FOURTEEN
 <div class="items">
-
+	<img src="images/pipeIcon.png">
 </div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+
 
 <img src="images/DoorPortrait.png">
 You're almost there!!
@@ -338,14 +352,16 @@ You try to feed the door random objects in the house, but it only gets more and 
 
 ## SCENE FIFTEEN
 <div class="items">
-
+	<a href="/death-eleven"><img src="images/pipeIcon.png"></a>
+</div>
+<div class="items">
+	<a href="/scene-sixteen"><img src="images/keyIcon02.png"></a>
+</div>
+<div class="items">
+	<a href="/death-twelve"><img src="images/swordIcon.png"></a>
 </div>
 
 You study the Door Monster carefully as you dodge its chomps. It's just a door, if you can reach the door knob, you should just be able to walk right out- but as soon as you do, it immediately locks itself! "Hahaha how will you get passed a locked door?!"
-
-- [Beat it with a drain pipe](/death-eleven)
-- [Stab the door with your sword](/death-twelve)
-- [ITEM: SOURCE KEY](/scene-sixteen)
 
 <span class="clear"></span>
 
@@ -368,10 +384,6 @@ You try to stab the door with your sword, but it just devours you in one bite.
 
 
 ## SCENE SIXTEEN
-<div class="items">
-
-</div>
-
 <img src="images/geniusIcon03.png">
 GREAT THINKING! It suddenly occurs to you, why not just unlock the door? You stick the Source Key into the Door Monster's Lock and turn the key. The monster is defeated and your whole apartment turns back to normal.
 
@@ -393,6 +405,7 @@ CONGRATULATIONS YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
 
 
 ## SCENE TWO ALTERNATE
+
 <div class="items">
 
 </div>
@@ -405,6 +418,9 @@ You decide that it's probably better to get on the demons good side. Unfortunate
 <span class="clear"></span>
 
 ## CHAPTER TWO-THREE
+<div class="items">
+	
+</div>
 <img src="images/mochiIcon.png">
 A brilliant idea hits you! What do Demons love more than anything else? Souls! If you can just find your cat, Mochi, you can offer her soul up to the Demons and then they'll forgive you. Right?! Cats have nine souls anyways... or is it lives? Same difference.
 
@@ -414,6 +430,9 @@ A brilliant idea hits you! What do Demons love more than anything else? Souls! I
 <span class="clear"></span>
 
 ## CHAPTER TWO-FOUR
+<div class="items">
+	
+</div>
 <img src="images/Evil_couch.png">
 You go looking for your cat. To your horror, you catch a glimpse of Mochi just as she's being eaten by your stinky and decaying Zombie Couch. Of course! It's going to take forever to get Mochi out of that damn Zombie Couch.
 
@@ -471,6 +490,7 @@ I wasn't kidding when I said it's strength is crazy! As you try to pry yourself 
 
 </div>
 
+<img src="images/spring_icon2.png">
 As you're about to be swallowed whole, you yank out a spring from inside the Zombie Couch's mouth and use it to slice off it's tongue! The Zombie Couch releases its grip on you and spits out Mochi! Success! Mochi pops out and runs away as your couch dies.
 
 - [>](/prize-four)
@@ -478,7 +498,17 @@ As you're about to be swallowed whole, you yank out a spring from inside the Zom
 <span class="clear"></span>
 
 ## PRIZE FOUR
-You've found a $5 bill and a lazer pointer in the Couch Cushions. YAY!!
+<div class="chest">
+	<img src="images/pipeIcon.png">
+	<img src="images/keyIcon02.png">
+	<img src="images/swordIcon.png">
+	<img src="images/moneyIcon.png">
+	<img src="images/lazerIcon.png">
+</div>
+<span class="clear"></span>
+DAMN! There was a lot of stuff in that couch!
+You've found a drain pipe, a key, a sword, a $5 bill and a lazer pointer in the Couch Cushions. YAY!!
+
 
 - [>](/scene-twenty)
 
@@ -489,9 +519,22 @@ You've found a $5 bill and a lazer pointer in the Couch Cushions. YAY!!
 
 ## SCENE TWENTY
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<img src="images/moneyIcon.png">
+</div>
+<div class="items">
+	<img src="images/lazerIcon.png">
 </div>
 
+<img src="images/monsterMochi.gif">
 Now that the Couch is dead, time to catch Mochi so you can trade her soul for romance. However she's does not seem ok with this deal. She's morphing into a ravenous monster. You're not going to trade her soul without a fight.
 
 - [Quick! Get the catnip!](/scene-twenty-one)
@@ -510,14 +553,25 @@ As soon as you try to pet her, she hisses... she came here to fight! She scratch
 
 ## SCENE TWENTY-ONE
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<img src="images/moneyIcon.png">
+</div>
+<div class="items">
+	<a href="/scene-twenty-two"><img src="images/lazerIcon.png"></a>
 </div>
 
-<img src="images/monsterMochi.gif">
+<img src="images/catnipIcon.png">
 
 Mochi is growing bigger and bigger! If you can just get to the catnip in the kitchen, you should be able to knock her out. But Mochi is blocking the way... and she's looking like she wants to scratch your eyeballs out.
 
-- [ITEM:LAZER POINTER](/scene-twenty-two)
 - [Fight Mochi](/death-sixteen)
 - [Push past Mochi](/death-seventeen)
 
@@ -544,18 +598,31 @@ Mochi isn't having it! She grows so large and starts to hurl fur balls at you, w
 
 ## SCENE TWENTY-TWO
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<img src="images/moneyIcon.png">
+</div>
+<div class="items">
+	<img src="images/lazerIcon.png">
 </div>
 
 <img src="images/geniusIcon04.png">
 GREAT THINKING! You use the lazer pointer to distract Mochi. She frantically chases after the shiny red dot as you snatch up the catnip. Once you have it, you throw the catnip all over the floor. Mochi loses interest in the dot and proceeds to roll around in the nip.
-<img src="images/catnipIcon.png">
+
 
 - [>](/prize-five)
 
 <span class="clear"></span>
 
 ## PRIZE FIVE
+<img src="images/soulIcon2.png">
 Mochi shrunk back down! You now have a cat soul to trade!
 
 - [>](/scene-twenty-three)
@@ -567,8 +634,21 @@ Mochi shrunk back down! You now have a cat soul to trade!
 
 ## SCENE TWENTY-THREE
 <div class="items">
-
+	<img src="images/pipeIcon.png">
 </div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<img src="images/moneyIcon.png">
+</div>
+<div class="items">
+	<img src="images/lazerIcon.png">
+</div>
+
 <img src="images/mochiSoulJar_Poprtrait.gif">
 With Mochi in hand, you try to offer the demons her soul as a "sorry gift", but Demons are mad that you killed the Zombie Couch. That was one their own, after all.
 
@@ -588,14 +668,24 @@ This does not go over well with the Demons. They, in return, keep you from leavi
 
 ## SCENE TWENTY-FOUR
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<a href="/scene-twenty-five"><img src="images/moneyIcon.png"></a>
+</div>
+<div class="items">
+	<a href="/death-nineteen"><img src="images/lazerIcon.png"></a>
 </div>
 
 You try to bargain with them, but they don't know what else you could possibly provide them that they'd want. A cat's soul is not enough. You gotta sweeten the pot.
 
 - [Offer them your own soul](/death-eighteen)
-- [ITEM: Lazer Pointer](/death-nineteen)
-- [ITEM: $5](/scene-twenty-five)
 
 <span class="clear"></span>
 
@@ -618,7 +708,16 @@ You hand over the lazer pointer you pulled from the Zombie Couch. The Demons giv
 
 ## SCENE TWENTY-FIVE
 <div class="items">
-
+	<img src="images/pipeIcon.png">
+</div>
+<div class="items">
+	<img src="images/keyIcon02.png">
+</div>
+<div class="items">
+	<img src="images/swordIcon.png">
+</div>
+<div class="items">
+	<img src="images/lazerIcon.png">
 </div>
 
 <img src="images/geniusIcon01.png">
