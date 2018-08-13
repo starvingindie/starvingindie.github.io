@@ -1,10 +1,24 @@
-# [THE SQUIDBAGS PRESENT](/scene-one)
+# [THE SQUIDBAGS PRESENT](/intro)
 
-<img src="images/squidbagIcon.png" class="logo">
+<img src="images/titleCard.gif" class="logo">
 <span class="clear"></span>
 
 <span class="clear"></span>
 
+## INTRO
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	Hey! I'm just about to leave the house. 
+<span class="clear"></span>
+    	Can't wait for our date! :)
+  	</div>
+</div>
+
+- [>](/scene-one)
 
 ## SCENE ONE
 <img src="images/apartmentDemonsPortrait.gif">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
@@ -331,7 +345,7 @@ You're almost there!!
 With the Demons taken care of, you rush for the door hoping to make it to your date on time. As you go to leave your apartment, the front door turns into a large mouth that looks like there isn't enough food in this world to satisfy its hunger!
 
 - [Try feeding it random objects](/death-ten)
-- [Look for an opening to get passed it](/scene-fifteen)
+- [Look for an opening to get passed it](/stand-up)
 
 <span class="clear"></span>
 
@@ -342,6 +356,22 @@ You try to feed the door random objects in the house, but it only gets more and 
 - [RESTART FROM CHECKPOINT](/scene-fourteen)
 
 <span class="clear"></span>
+
+
+## STAND UP
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	I hope your not the type of persons who ditches on a date. 
+<span class="clear"></span>
+    	That would make me sad :(
+  	</div>
+</div>
+
+- [>](/scene-fifteen)
 
 
 ## SCENE FIFTEEN
@@ -418,7 +448,7 @@ A brilliant idea hits you! What do Demons love more than anything else? Souls! I
 <span class="clear"></span>
 
 ## CHAPTER TWO-FOUR
-<img src="images/Evil_couch.png" class="landscape">
+<img src="images/Evil_couch.gif" class="landscape">
 You go looking for your cat. To your horror, you catch a glimpse of Mochi just as she's being eaten by your stinky and decaying Zombie Couch. Of course! It's going to take forever to get Mochi out of that damn Zombie Couch.
 
 - ["This is not how I thought tonight would go..."](/scene-seventeen)
@@ -432,7 +462,7 @@ You go looking for your cat. To your horror, you catch a glimpse of Mochi just a
 
 Ok! Time to defeat the Zombie Couch. As you get closer you start to lose motivation. You're becoming lazier and lazier. OH NO!! The Zombie Couch has cast some weird spell on you! Suddenly you receive a buzzing message.
 
-- [Check your phone](/scene-eighteen)
+- [Check your phone](/not-a-couch-potato)
 - [Take a quick nap](/death-thirteen)
 
 <span class="clear"></span>
@@ -445,6 +475,21 @@ A little power nap won't hurt right? WRONG! That is the last nap you ever take. 
 
 <span class="clear"></span>
 
+## NOT A COUCH POTATO
+
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	I just got to the restaraunt. 
+<span class="clear"></span>
+    	Will you be running late?
+  	</div>
+</div>
+
+- [>](/scene-eighteen)
 
 ## SCENE EIGHTEEN
 
@@ -467,7 +512,7 @@ I wasn't kidding when I said it's strength is crazy! As you try to pry yourself 
 ## SCENE NINETEEN
 
 <img src="images/spring_icon2.png">
-As you're about to be swallowed whole, you yank out a spring from inside the Zombie Couch's mouth and use it to slice off it's tongue! The Zombie Couch releases its grip on you and spits out Mochi! Success! Mochi pops out and runs away as your couch dies.
+As you're about to be swallowed whole, you yank out a spring from inside the Zombie Couch's mouth and use it to slice off its tongue! The Zombie Couch releases its grip on you and spits out Mochi! Success! Mochi pops out and runs away as your couch dies.
 
 - [>](/prize-four)
 
@@ -520,7 +565,7 @@ Now that the Couch is dead, time to catch Mochi so you can trade her soul for ro
 
 ## DEATH FIFTEEN
 <img src="images/deathIcon1.png">
-As soon as you try to pet her, she hisses... she came here to fight! She scratches up your face bad. There's no way you can go on a date looking like this!
+As soon as you try to pet her, she hisses... she came here to fight! She scratches up your face badly. There's no way you can go on a date looking like this!
 
 - [RESTART FROM CHECKPOINT](/scene-twenty)
 
@@ -693,6 +738,21 @@ You hand over the lazer pointer you pulled from the Zombie Couch. The Demons giv
 GREAT THINKING! 
 
 You offer the Demons the $5 bill you found in the couch. They're quick to snatch it from your hands and take Mochi's soul. The Demons forgive you and tell you they won't bother you anymore, but they can't say the same for the other haunted things in your house.
+
+- [>](/running-late)
+
+## RUNNING LATE
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	Oooo this place looks expensive. 
+<span class="clear"></span>
+    	Hope you have an apetite :)
+  	</div>
+</div>
 
 - [>](/scene-fourteen)
 

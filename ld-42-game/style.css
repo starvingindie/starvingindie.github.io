@@ -13,7 +13,7 @@ body {
   image-rendering: pixelated;
   image-rendering: crisp-edges;
 
-  font-family: 'Press Start 2P';
+  font-family: 'Press Start 2P',cursive;
   letter-spacing: .2rem;
 
 }
@@ -166,3 +166,81 @@ span.clear { clear: left; display: block; }
 	margin: auto;
 	text-align: center;
 }
+
+.bubble-speech {
+		  position: relative;
+		  font-family: 'Press Start 2P', sans-serif;
+		  margin:auto;
+		  line-height: 22px;
+		  letter-spacing: 1px;
+		  margin-top: 16px;
+		  margin-bottom: 48px;
+		  width: 25%;
+		  background-color: #FFF1E8;
+		  padding: 16px;
+		  color: black;
+		}
+
+		.bubble-speech img{
+			margin-top: 0px;
+			margin-right: 1em;
+			margin-bottom: 1em;
+			float:left;
+			margin-right: 5px;
+			width: 64px;
+		}
+
+		.bubble-speech.bubble-left:after {
+		  z-index: 9002;
+		  display: block;
+		  content: "";
+		  position: absolute;
+		  bottom: -11px;
+		  left: 0;
+		  border-top: 0 #FFF1E8 solid;
+		  border-bottom: 12px transparent solid;
+		  border-left: 20px #FFF1E8 solid;
+		}
+
+		.bubble-square {
+		  width: 33px;
+		  height: 25px;
+		  text-align: center;
+		}
+
+		.bubble-speech.bubble-center:after {
+		  z-index: 9002;
+		  display: block;
+		  content: "";
+		  position: absolute;
+		  bottom: -11px;
+		  left: 50%;
+		  margin-left: -18px;
+		  border-right: 20px transparent solid;
+		  border-top: 12px #efefef solid;
+		  border-left: 20px transparent solid;
+		}
+
+		.bubble-speech.bubble-right:after {
+		  z-index: 9002;
+		  display: block;
+		  content: "";
+		  position: absolute;
+		  bottom: -11px;
+		  right: 0;
+		  border-top: 0 #efefef solid;
+		  border-bottom: 12px transparent solid;
+		  border-right: 20px #efefef solid;
+		}
+
+		.bubble-speech .author {
+		  max-width: 300px;
+		  font-weight: bold;
+		  margin: 0;
+		  margin-bottom: 2em;
+		  padding: 0 12px 2px 0;
+		}
+
+		.message {
+			margin-left: 50px;
+		}
