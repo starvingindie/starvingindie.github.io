@@ -1,6 +1,6 @@
 # [THE SQUIDBAGS PRESENT](/scene-one)
 
-<img src="images/squidbagIcon.png">
+<img src="images/squidbagIcon.png" class="logo">
 <span class="clear"></span>
 
 <span class="clear"></span>
@@ -30,7 +30,7 @@ Yeah, these demons and ghouls need to go. The last time they invaded your house 
 ## SCENE THREE
 You go in search for the Source Key. Ugh! This apartment is a mess. It's becoming difficult to even move around with all the clutter. The demons know you're searching for the Source Key. 
 
-<img src="images/landscape_bathroom2.png">
+<img src="images/landscape_bathroom2.png" class="landscape">
 
 Suddenly, your teleported into the bathroom. The door locks behind you. Just great!
 
@@ -125,13 +125,15 @@ You can now use this item... With the Evil Mirror defeated, you escape the bathr
 
 
 ## SCENE EIGHT
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
+</div>
 </div>
 
 Now that you've escaped the bathroom, it's time to search for the Source Key. 
 
-<img src="images/landscape_livingroom2.png">
+<img src="images/landscape_livingroom2.png" class="landscape">
 
 As you search the living room, your junk rapidly begins to close in on you. Your running out of space to move and the strong walls are closing. Panic sets in as you figure out what to do...
 
@@ -151,8 +153,10 @@ You try to keep the walls from closing in by prying them open, but they're way t
 
 
 ## SCENE NINE
+<div class="item-container">
 <div class="items">
 	<a href="/scene-ten"><img src="images/pipeIcon.png"></a>
+</div>
 </div>
 
 <img src="images/haunted_window.png">
@@ -182,8 +186,10 @@ You try to unlock the window, but the window is as stubborn as you remember. The
 
 
 ## SCENE TEN
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
+</div>
 </div>
 
 <img src="images/geniusIcon01.png">
@@ -194,7 +200,7 @@ GREAT THINKING! You smash the window open with the drain pipe! Immediately you s
 <span class="clear"></span>
 
 ## PRIZE TWO
-<img src="images/keyIcon02.png">
+<img src="images/keyIcon.png">
 You gained the source key!
 
 - [>](/scene-eleven)
@@ -205,11 +211,12 @@ You gained the source key!
 
 
 ## SCENE ELEVEN
+<div class="item-container">
 <div class="items">
 	<a href="/death-seven"><img src="images/pipeIcon.png"></a>
+</div><div class="items">
+	<img src="images/keyIcon.png">
 </div>
-<div class="items">
-	<img src="images/keyIcon02.png">
 </div>
 
 
@@ -230,11 +237,12 @@ You try to fight them with your drain pipe, but I wasn't kidding when I said the
 
 
 ## SCENE TWELVE
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
+</div><div class="items">
+	<a href="/scene-thirteen"><img src="images/keyIcon.png"></a>
 </div>
-<div class="items">
-	<a href="/scene-thirteen"><img src="images/keyIcon02.png"></a>
 </div>
 
 That's right! You remember there's a sword under your bed. If you can attach the Source Key with the sword, not only can you keep the demons at bay, but you can hack them up too! Only problem, is a hoard of Demons stands between you and your bedroom.
@@ -262,17 +270,18 @@ You try to reason with demons, but they just laugh at you and then proceed to ri
 
 
 ## SCENE THIRTEEN
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
+</div><div class="items">
+	<img src="images/keyIcon.png">
 </div>
-<div class="items">
-	<img src="images/keyIcon02.png">
 </div>
 
 <img src="images/geniusIcon02.png">
 GREAT THINKING! The Demons aren't harmed by the Source Key, but they're still keeping their distance. 
 
-<img src="images/landscape_bedroom2.png">
+<img src="images/landscape_bedroom2.png" class="landscape">
 
 You use the source key to carve a path through the demons to your bedroom. As soon as you find your sword, you waist no time slashing the demons into bits.
 
@@ -292,14 +301,14 @@ You've earned a sword!!
 
 
 ## SCENE FOURTEEN
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
+</div>
 </div>
 
 
@@ -323,14 +332,14 @@ You try to feed the door random objects in the house, but it only gets more and 
 
 
 ## SCENE FIFTEEN
+<div class="item-container">
 <div class="items">
 	<a href="/death-eleven"><img src="images/pipeIcon.png"></a>
-</div>
-<div class="items">
-	<a href="/scene-sixteen"><img src="images/keyIcon02.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
+	<a href="/scene-sixteen"><img src="images/keyIcon.png"></a>
+</div><div class="items">
 	<a href="/death-twelve"><img src="images/swordIcon.png"></a>
+</div>
 </div>
 
 You study the Door Monster carefully as you dodge its chomps. It's just a door, if you can reach the door knob, you should just be able to walk right out- but as soon as you do, it immediately locks itself! "Hahaha how will you get passed a locked door?!"
@@ -378,10 +387,6 @@ CONGRATULATIONS YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
 
 ## SCENE TWO ALTERNATE
 
-<div class="items">
-
-</div>
-
 You decide that it's probably better to get on the demons good side. Unfortunately, sweet talking them into letting you go on a date doesn't work. They're still pissed about when you tried to get rid of them the last time they haunted your apartment.
 
 - [You offer them a gift](/chapter-two-three)
@@ -390,9 +395,7 @@ You decide that it's probably better to get on the demons good side. Unfortunate
 <span class="clear"></span>
 
 ## CHAPTER TWO-THREE
-<div class="items">
-	
-</div>
+
 <img src="images/mochiIcon.png">
 A brilliant idea hits you! What do Demons love more than anything else? Souls! If you can just find your cat, Mochi, you can offer her soul up to the Demons and then they'll forgive you. Right?! Cats have nine souls anyways... or is it lives? Same difference.
 
@@ -402,10 +405,7 @@ A brilliant idea hits you! What do Demons love more than anything else? Souls! I
 <span class="clear"></span>
 
 ## CHAPTER TWO-FOUR
-<div class="items">
-	
-</div>
-<img src="images/Evil_couch.png">
+<img src="images/Evil_couch.png" class="landscape">
 You go looking for your cat. To your horror, you catch a glimpse of Mochi just as she's being eaten by your stinky and decaying Zombie Couch. Of course! It's going to take forever to get Mochi out of that damn Zombie Couch.
 
 - ["This is not how I thought tonight would go..."](/scene-seventeen)
@@ -416,9 +416,6 @@ You go looking for your cat. To your horror, you catch a glimpse of Mochi just a
 
 
 ## SCENE SEVENTEEN
-<div class="items">
-
-</div>
 
 Ok! Time to defeat the Zombie Couch. As you get closer you start to lose motivation. You're becoming lazier and lazier. OH NO!! The Zombie Couch has cast some weird spell on you! Suddenly you receive a buzzing message.
 
@@ -437,9 +434,6 @@ A little power nap won't hurt right? WRONG! That is the last nap you ever take. 
 
 
 ## SCENE EIGHTEEN
-<div class="items">
-
-</div>
 
 It's from your date! They're not going to want to be involved with a Couch Potato. Through sheer desire, you snap out of your trance. As you do, the Couch opens up and wraps it's slimy tongue around you. It's strength is crazy! It's pulling you into the cushions.
 
@@ -458,9 +452,6 @@ I wasn't kidding when I said it's strength is crazy! As you try to pry yourself 
 
 
 ## SCENE NINETEEN
-<div class="items">
-
-</div>
 
 <img src="images/spring_icon2.png">
 As you're about to be swallowed whole, you yank out a spring from inside the Zombie Couch's mouth and use it to slice off it's tongue! The Zombie Couch releases its grip on you and spits out Mochi! Success! Mochi pops out and runs away as your couch dies.
@@ -472,7 +463,7 @@ As you're about to be swallowed whole, you yank out a spring from inside the Zom
 ## PRIZE FOUR
 <div class="chest">
 	<img src="images/pipeIcon.png">
-	<img src="images/keyIcon02.png">
+	<img src="images/keyIcon.png">
 	<img src="images/swordIcon.png">
 	<img src="images/moneyIcon.png">
 	<img src="images/lazerIcon.png">
@@ -490,20 +481,18 @@ You've found a drain pipe, a key, a sword, a $5 bill and a lazer pointer in the 
 
 
 ## SCENE TWENTY
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/moneyIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/lazerIcon.png">
+</div>
 </div>
 
 <img src="images/monsterMochi.gif">
@@ -524,20 +513,18 @@ As soon as you try to pet her, she hisses... she came here to fight! She scratch
 
 
 ## SCENE TWENTY-ONE
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/moneyIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/scene-twenty-two"><img src="images/lazerIcon.png"></a>
+</div>
 </div>
 
 <img src="images/catnipIcon.png">
@@ -569,20 +556,18 @@ Mochi isn't having it! She grows so large and starts to hurl fur balls at you, w
 
 
 ## SCENE TWENTY-TWO
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/moneyIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/lazerIcon.png">
+</div>
 </div>
 
 <img src="images/geniusIcon04.png">
@@ -605,20 +590,18 @@ Mochi shrunk back down! You now have a cat soul to trade!
 
 
 ## SCENE TWENTY-THREE
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/moneyIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/lazerIcon.png">
+</div>
 </div>
 
 <img src="images/mochiSoulJar_Poprtrait.gif">
@@ -639,20 +622,18 @@ This does not go over well with the Demons. They, in return, keep you from leavi
 
 
 ## SCENE TWENTY-FOUR
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/scene-twenty-five"><img src="images/moneyIcon.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/death-nineteen"><img src="images/lazerIcon.png"></a>
+</div>
 </div>
 
 You try to bargain with them, but they don't know what else you could possibly provide them that they'd want. A cat's soul is not enough. You gotta sweeten the pot.
@@ -679,17 +660,16 @@ You hand over the lazer pointer you pulled from the Zombie Couch. The Demons giv
 
 
 ## SCENE TWENTY-FIVE
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
-</div>
-<div class="items">
-	<img src="images/keyIcon02.png">
-</div>
-<div class="items">
+</div><div class="items">
+	<img src="images/keyIcon.png">
+</div><div class="items">
 	<img src="images/swordIcon.png">
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/lazerIcon.png">
+</div>
 </div>
 
 <img src="images/geniusIcon01.png">
@@ -791,14 +771,14 @@ You found an empty bottle in your medicine cabinet, a Drain Pipe and a Soap Bar!
 
 
 ## SCENE TWENTY-NINE
+<div class="item-container">
 <div class="items">
 	<a href="/death-twenty-four"><img src="images/pipeIcon.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/scene-thirty"><img src="images/emptyBottleIcon.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
 	<img src="images/soapIcon.png">
+</div>
 </div>
 
 You head back to the kitchen, but the you discover the flood was not enough to kill the Kitchen Devil Coffee Maker! He laughs at you, as he continues to burn down your kitchen. Jerk! If there was only a way to throw water on him!
@@ -807,14 +787,14 @@ You head back to the kitchen, but the you discover the flood was not enough to k
 
 
 ## SCENE THIRTY
+<div class="item-container">
 <div class="items">
 	<a href="/death-twenty-three"><img src="images/pipeIcon.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/death-twenty-two"><img src="images/emptyBottleIcon.png"></a>
-</div>
-<div class="items">
+</div><div class="items">
 	<a href="/scene-thirty-one"><img src="images/soapIcon.png"></a>
+</div>
 </div>
 
 <img src="images/geniusIcon02.png">
@@ -852,8 +832,10 @@ You throw your drain pipe at the Kitchen Devil Coffee Maker! It's not effective.
 
 
 ## SCENE THIRTY ONE
+<div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
+</div>
 </div>
 
 <img src="images/geniusIcon03.png">
