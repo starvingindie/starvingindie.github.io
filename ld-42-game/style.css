@@ -89,7 +89,7 @@ img {
 	margin-top: 2em;
 	width: 25%;
 	float: left;
-	margin-right: 2em;
+	margin-right: 5em;
 }
 
 span.clear { clear: left; display: block; }
@@ -102,17 +102,25 @@ span.clear { clear: left; display: block; }
 }
 
 .items img{
+	cursor: not-allowed;
 	width: 64px;
 	float: none;
   	border: .1em solid #FF77A8;
- 
-  
-  
+}
+
+.items a img{
+	width: 68px;
+	height: 68px;
+	padding: 3px;
+  	border: .1em solid #29ADFF;
+  	display: inline-block;
+  	cursor: pointer;
 }
 
 .chest {
 	margin: auto;
-	width: 40%;
+	margin-bottom: 2em;
+	width: 60%;
 }
 
 .chest img{
@@ -130,6 +138,17 @@ span.clear { clear: left; display: block; }
 	margin-top: 2em;
 	display: block;
 	width: 80%;
+	border: 1em solid;
+	border-image: url('images/textMessage_uiWindow.png') 27 27 27 27;
+}
+
+.item-reward{
+	margin-top: 2em;
+	width: 25%;
+	display: block;
+	float: none;
+	margin: auto;
+	margin-bottom: 2em;
 	border: 1em solid;
 	border-image: url('images/textMessage_uiWindow.png') 27 27 27 27;
 }

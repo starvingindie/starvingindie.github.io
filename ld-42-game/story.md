@@ -7,7 +7,7 @@
 
 
 ## SCENE ONE
-<img src="images/apartmentDemonsPortrait.png">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
+<img src="images/apartmentDemonsPortrait.gif">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
 
 - [Get rid of the Demons](/scene-two)
 - [Appeal to the Demons](/scene-two-alternate#mochi)
@@ -20,6 +20,7 @@
 ## SCENE TWO
 <img src="images/kitchen_ghoul.png">
 Yeah, these demons and ghouls need to go. The last time they invaded your house you used a magical Source Key to get them to leave. You quickly scan your room, but it's a mess. It's cluttered with a bunch of figurines and video games. You can't remember where you left that Source Key!
+<span class="clear"></span>
 
 - [Look for the source key](/scene-three)
 - [Craft a brand new Source Key](/scene-three-alternate)
@@ -43,11 +44,11 @@ Suddenly, your teleported into the bathroom. The door locks behind you. Just gre
 
 
 ## SCENE FOUR
-<img src="images/mirrorPortrait.png">
+<img src="images/mirrorPortrait.gif">
 
 As you reach for the door, you hear a demonic voice from behind you. It sounds just like you. You turn to see an enraged bathroom mirror trying to hypnotize you into its black infinite abyss... You try to resist, but the mirror's hypnotizing voice is so soothing....
 
-<img src="images/mirrorGhoul.png">
+<span class="clear"></span>
 
 - [Smash the bathroom mirror](/scene-five)
 
@@ -59,6 +60,8 @@ As you reach for the door, you hear a demonic voice from behind you. It sounds j
 <img src="images/shardsIcon.png">
 
 You wrap a towel around your hand and punch the bathroom mirror as hard as you can! SMASH! Shards of the mirror fall to the ground... but suddenly they start to float upwards. Crap. The Evil Mirror Shards look like they're going to attack with lightning speed!
+
+<span class="clear"></span>
 
 - [Try to dodge the shards](/death-one)
 - [Use the mirror against itself](/scene-six)
@@ -113,6 +116,8 @@ As you're being sucked into the void, you lift the toilet seat up, turn on all t
 <span class="clear"></span>
 
 ## PRIZE ONE
+<img src="images/pipeIcon.png" class="item-reward">
+<span class="clear"></span>
 In the chaos of a flooded bathroom you found a drain pipe!!
 
 You can now use this item... With the Evil Mirror defeated, you escape the bathroom.
@@ -135,7 +140,7 @@ Now that you've escaped the bathroom, it's time to search for the Source Key.
 
 <img src="images/landscape_livingroom2.png" class="landscape">
 
-As you search the living room, your junk rapidly begins to close in on you. Your running out of space to move and the strong walls are closing. Panic sets in as you figure out what to do...
+As you search the living room, your house clutter rapidly begins to close in on you. Your running out of space to move and the strong walls are closing. Panic sets in as you figure out what to do...
 
 - [Try to push the walls apart](/death-four)
 - [Quickly get rid of your stuff](/scene-nine)
@@ -192,7 +197,7 @@ You try to unlock the window, but the window is as stubborn as you remember. The
 </div>
 </div>
 
-<img src="images/geniusIcon01.png">
+<!--<img src="images/geniusIcon01.png" class="item-reward">-->
 GREAT THINKING! You smash the window open with the drain pipe! Immediately you start throwing things out onto the street until you finally find the Source Key! 
 
 - [>](/prize-two)
@@ -200,8 +205,12 @@ GREAT THINKING! You smash the window open with the drain pipe! Immediately you s
 <span class="clear"></span>
 
 ## PRIZE TWO
-<img src="images/keyIcon.png">
-You gained the source key!
+<img src="images/keyIcon.png" class="item-reward">
+<span class="clear"></span>
+
+<p align="center">You gained the source key!</p>
+
+<span class="clear"></span>
 
 - [>](/scene-eleven)
 
@@ -278,20 +287,24 @@ You try to reason with demons, but they just laugh at you and then proceed to ri
 </div>
 </div>
 
-<img src="images/geniusIcon02.png">
+<!--<img src="images/geniusIcon02.png" class="item-reward">-->
+<span class="clear"></span>
+
 GREAT THINKING! The Demons aren't harmed by the Source Key, but they're still keeping their distance. 
 
 <img src="images/landscape_bedroom2.png" class="landscape">
 
-You use the source key to carve a path through the demons to your bedroom. As soon as you find your sword, you waist no time slashing the demons into bits.
+You use the source key to carve a path through the demons to your bedroom. As soon as you find your sword, you waste no time slashing the demons into bits.
 
 - [>](/prize-three)
 
 <span class="clear"></span>
 
 ## PRIZE THREE
-<img src="images/swordIcon.png">
-You've earned a sword!!
+<img src="images/swordIcon.png" class="item-reward">
+<span class="clear"></span>
+
+<p align="center">You've earned a sword!!</p>
 
 - [>](/scene-fourteen)
 
@@ -312,7 +325,7 @@ You've earned a sword!!
 </div>
 
 
-<img src="images/DoorPortrait.png">
+<img src="images/DoorPortrait.gif">
 You're almost there!!
 
 With the Demons taken care of, you rush for the door hoping to make it to your date on time. As you go to leave your apartment, the front door turns into a large mouth that looks like there isn't enough food in this world to satisfy its hunger!
@@ -365,7 +378,7 @@ You try to stab the door with your sword, but it just devours you in one bite.
 
 
 ## SCENE SIXTEEN
-<img src="images/geniusIcon03.png">
+<!--<img src="images/geniusIcon03.png" class="item-reward">-->
 GREAT THINKING! It suddenly occurs to you, why not just unlock the door? You stick the Source Key into the Door Monster's Lock and turn the key. The monster is defeated and your whole apartment turns back to normal.
 
 You exit your apartment, lock the door behind you and head off to meet your date.
@@ -498,6 +511,8 @@ You've found a drain pipe, a key, a sword, a $5 bill and a lazer pointer in the 
 <img src="images/monsterMochi.gif">
 Now that the Couch is dead, time to catch Mochi so you can trade her soul for romance. However she's does not seem ok with this deal. She's morphing into a ravenous monster. You're not going to trade her soul without a fight.
 
+<span class="clear"></span>
+
 - [Quick! Get the catnip!](/scene-twenty-one)
 - [Try to calm Mochi with pets](/death-fifteen)
 
@@ -530,6 +545,8 @@ As soon as you try to pet her, she hisses... she came here to fight! She scratch
 <img src="images/catnipIcon.png">
 
 Mochi is growing bigger and bigger! If you can just get to the catnip in the kitchen, you should be able to knock her out. But Mochi is blocking the way... and she's looking like she wants to scratch your eyeballs out.
+
+<span class="clear"></span>
 
 - [Fight Mochi](/death-sixteen)
 - [Push past Mochi](/death-seventeen)
@@ -570,7 +587,7 @@ Mochi isn't having it! She grows so large and starts to hurl fur balls at you, w
 </div>
 </div>
 
-<img src="images/geniusIcon04.png">
+<!--<img src="images/geniusIcon04.png" class="item-reward">-->
 GREAT THINKING! You use the lazer pointer to distract Mochi. She frantically chases after the shiny red dot as you snatch up the catnip. Once you have it, you throw the catnip all over the floor. Mochi loses interest in the dot and proceeds to roll around in the nip.
 
 
@@ -608,11 +625,11 @@ Mochi shrunk back down! You now have a cat soul to trade!
 With Mochi in hand, you try to offer the demons her soul as a "sorry gift", but Demons are mad that you killed the Zombie Couch. That was one their own, after all.
 
 - [Bargain with the Demons](/scene-twenty-four)
-- [Tell them to suck it up](/death-seventeen)
+- [Tell them to suck it up](/death-seventeen-two)
 
 <span class="clear"></span>
 
-## DEATH SEVENTEEN
+## DEATH SEVENTEEN TWO
 <img src="images/deathIcon1.png">
 This does not go over well with the Demons. They, in return, keep you from leaving the apartment to go on your date, all the while tell YOU to suck it up.
 
@@ -672,12 +689,12 @@ You hand over the lazer pointer you pulled from the Zombie Couch. The Demons giv
 </div>
 </div>
 
-<img src="images/geniusIcon01.png">
+<!--<img src="images/geniusIcon01.png" class="item-reward">-->
 GREAT THINKING! 
 
 You offer the Demons the $5 bill you found in the couch. They're quick to snatch it from your hands and take Mochi's soul. The Demons forgive you and tell you they won't bother you anymore, but they can't say the same for the other haunted things in your house.
 
-[>](/scene-fourteen)
+- [>](/scene-fourteen)
 
 
 
@@ -713,6 +730,8 @@ You go to unplug the annoying Kitchen Devil, but as you get closer the fire gets
 <img src="images/sinkSlugPortrait.gif">
 You go to the bathroom in search of water, but when you turn on the faucet a bunch of Demon Slugs slither out. GROSS! They're poisonous and are making their way towards you. They have to have a weakness of some kind...
 
+<span class="clear"></span>
+
 - [Probably fire](/scene-twenty-seven)
 - [Pick them up and flush them in the toilet](/death-twenty)
 
@@ -731,6 +750,8 @@ What did I just say!? They're poisonous! You pick them up with your bare hands a
 ## SCENE TWENTY-SEVEN
 <img src="images/remoteTorchIcon.png">
 You race back to the living room and grab a shirt. You wrap it around your remote and light it on fire using the flames from the kitchen. When you turn around the whole apartment is infested with these poisenous slugs. Ugh! Leaving the faucet running is a bad habit.
+
+<span class="clear"></span>
 
 - [Burn this baby down!](/scene-twenty-eight)
 - [Try to run through them](/death-twenty-one)
@@ -797,7 +818,7 @@ You head back to the kitchen, but the you discover the flood was not enough to k
 </div>
 </div>
 
-<img src="images/geniusIcon02.png">
+<!--<img src="images/geniusIcon02.png" class="item-reward">-->
 GREAT THINKING! 
 
 You fill your empty bottle with toilet water and throw it at the Coffee Maker. The gross toilet water immediately nullifies him! Now you just need to remember how to mold a Source Key...
@@ -838,7 +859,7 @@ You throw your drain pipe at the Kitchen Devil Coffee Maker! It's not effective.
 </div>
 </div>
 
-<img src="images/geniusIcon03.png">
+<!--<img src="images/geniusIcon03.png" class="item-reward">-->
 GREAT THINKING! You use the soap bar and some utensils from the kitchen to craft another Source Key!
 
 - [>](/prize-two)
@@ -883,7 +904,7 @@ You try to pry yourself free... Not a good idea. Like I said, the more you strug
 
 
 ## SCENE-THIRTY-THREE
-
+<img src="images/mirrorPortrait.png">
 You try to reach for the mirror so you can break it and use the glass shards to escape the death grip. Unfortunately, the shower hose pulls you into the bathtub like forceful vines. Your hands streak across your window as you take your final breath...
 
 - [Break the window](/scene-thirty-four)
@@ -910,7 +931,9 @@ You smash the window, use a glass shard to cut yourself free from cord. You esca
 <span class="clear"></span>
 
 ## PRIZE LAST
-<img src="images/pipeIcon.png">
+<img src="images/pipeIcon.png" class="item-reward">
+<span class="clear"></span>
+
 In the chaos of a bathroom struggle you found a drain pipe!!
 
 - [>](/scene-eight)
