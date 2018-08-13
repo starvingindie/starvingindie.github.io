@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
-
+html {
+  background-image: url(images/BGTile03.png);
+  background-repeat: repeat-x; 
+}
 body {
   margin: 0 auto;
   max-width: 100%;
   line-height: 2;
   padding: 4em 1em;
   background-color: black;
+  background-image: url(images/BGTile03.png);
+  background-repeat: repeat-x repeat-y; 
+
+
   color: #FFF1E8;
 
   image-rendering: -moz-crisp-edges;
@@ -17,7 +24,10 @@ body {
   letter-spacing: .2rem;
 
 }
-
+hr{
+	margin-bottom: 3em;
+	margin-top: 3em;
+}
 #main {
 	max-width: 75%;
 	height: 100%;

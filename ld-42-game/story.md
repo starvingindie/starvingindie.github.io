@@ -5,14 +5,17 @@
 
 <span class="clear"></span>
 
-## INTRO
+
+## [INTRO]("")
+---
+
 <div class="bubble-speech bubble-left">
 	<p class="author"> Cutie From School </p>
 
 	<img src="images/phoneIcon.png" width="64">
 
   	<div class="message">
-    	Hey! I'm just about to leave the house. 
+    	Hey Al! I'm just about to leave the house. 
 <span class="clear"></span>
     	Can't wait for our date! :)
   	</div>
@@ -20,7 +23,10 @@
 
 - [>](/scene-one)
 
-## SCENE ONE
+
+## [SCENE ONE]("")
+---
+
 <img src="images/apartmentDemonsPortrait.gif">Your dream date is waiting! You're late! And of course, the demons in your apartment are keeping you from leaving the apartment. Not again! They're occupying more and more space. It's been years, since you've been on a date... you'll be damned if you miss it.
 
 - [Get rid of the Demons](/scene-two)
@@ -31,8 +37,11 @@
 <span class="clear"></span>
 
 
-## SCENE TWO
-<img src="images/kitchen_ghoul.png">
+
+## [SCENE TWO]("")
+---
+
+<img src="images/kitchen_ghoul.gif">
 Yeah, these demons and ghouls need to go. The last time they invaded your house you used a magical Source Key to get them to leave. You quickly scan your room, but it's a mess. It's cluttered with a bunch of figurines and video games. You can't remember where you left that Source Key!
 <span class="clear"></span>
 
@@ -42,12 +51,15 @@ Yeah, these demons and ghouls need to go. The last time they invaded your house 
 <span class="clear"></span>
 
 
-## SCENE THREE
+
+## [SCENE THREE]("")
+---
+
 You go in search for the Source Key. Ugh! This apartment is a mess. It's becoming difficult to even move around with all the clutter. The demons know you're searching for the Source Key. 
 
 <img src="images/landscape_bathroom2.png" class="landscape">
 
-Suddenly, your teleported into the bathroom. The door locks behind you. Just great!
+Suddenly, you're teleported into the bathroom. The door locks behind you. Just great!
 
 - [Break off the door knob!](/scene-four)
 - [Search for a way out](/scene-four-alternate)
@@ -57,20 +69,44 @@ Suddenly, your teleported into the bathroom. The door locks behind you. Just gre
 <span class="clear"></span>
 
 
-## SCENE FOUR
+
+## [SCENE FOUR]("")
+---
+
 <img src="images/mirrorPortrait.gif">
 
 As you reach for the door, you hear a demonic voice from behind you. It sounds just like you. You turn to see an enraged bathroom mirror trying to hypnotize you into its black infinite abyss... You try to resist, but the mirror's hypnotizing voice is so soothing....
 
 <span class="clear"></span>
 
-- [Smash the bathroom mirror](/scene-five)
+- [Smash the bathroom mirror](/anger)
 
 
 <span class="clear"></span>
 
 
-## SCENE FIVE
+
+## [ANGER]("")
+---
+
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	You know, my last partner had anger issues. 
+<span class="clear"></span>
+    	Don't know why I said that. I bet your not like them. You're special.
+  	</div>
+</div>
+
+- [>](/scene-five)
+
+
+## [SCENE FIVE]("")
+---
+
 <img src="images/shardsIcon.png">
 
 You wrap a towel around your hand and punch the bathroom mirror as hard as you can! SMASH! Shards of the mirror fall to the ground... but suddenly they start to float upwards. Crap. The Evil Mirror Shards look like they're going to attack with lightning speed!
@@ -82,7 +118,10 @@ You wrap a towel around your hand and punch the bathroom mirror as hard as you c
 
 <span class="clear"></span>
 
-## DEATH ONE
+
+## [DEATH ONE]("")
+---
+
 <img src="images/deathIcon1.png">
 You try to dodge all the shards, but it's useless. They all fly at you too fast and pin you to the wall and skewer you.
 
@@ -92,9 +131,12 @@ You try to dodge all the shards, but it's useless. They all fly at you too fast 
 <span class="clear"></span>
 
 
-## SCENE SIX
+
+## [SCENE SIX]("")
+---
+
 <img src="images/voidPanel1.png">
-You capture one of the shards out of the air and reflect it back at the mirror. The mirror becomes so confused that it begins to implode... BUT, in it's existential break down, it's trying to suck you into it's black reflective void.
+You capture one of the shards out of the air and reflect it back at the mirror. The mirror becomes so confused that it begins to implode... BUT, in it's existential break down, it's trying to suck you into itSs black reflective void.
 
 - [Hold on to something tight!](/death-two)
 - [Reach for the door knob!](/death-three)
@@ -102,7 +144,10 @@ You capture one of the shards out of the air and reflect it back at the mirror. 
 
 <span class="clear"></span>
 
-## DEATH TWO
+
+## [DEATH TWO]("")
+---
+
 <img src="images/deathIcon2.png">
 You hold on to the toilet in the hopes of not getting sucked in, but the void is too strong. It sucks you and the toilet into it.
 
@@ -112,7 +157,10 @@ This is absolutely the worst way to die... with a toilet.
 
 <span class="clear"></span>
 
-## DEATH THREE
+
+## [DEATH THREE]("")
+---
+
 <img src="images/deathIcon3.png">
 You try to hold on to the door handle, but the door is obviously a demon and chomps you in half. Your other half gets sucked into the void.
 
@@ -121,7 +169,10 @@ You try to hold on to the door handle, but the door is obviously a demon and cho
 <span class="clear"></span>
 
 
-## SCENE SEVEN
+
+## [SCENE SEVEN]("")
+---
+
 <img src="images/toiletIcon.png">
 As you're being sucked into the void, you lift the toilet seat up, turn on all the faucets and the shower. For a brief moment you're sucked into the void with all the water, but then the mirror coughs you out as it drowns on all the water it's inhaling.
 
@@ -129,7 +180,10 @@ As you're being sucked into the void, you lift the toilet seat up, turn on all t
 
 <span class="clear"></span>
 
-## PRIZE ONE
+
+## [PRIZE ONE]("")
+---
+
 <img src="images/pipeIcon.png" class="item-reward">
 <span class="clear"></span>
 In the chaos of a flooded bathroom you found a drain pipe!!
@@ -143,7 +197,10 @@ You can now use this item... With the Evil Mirror defeated, you escape the bathr
 <span class="clear"></span>
 
 
-## SCENE EIGHT
+
+## [SCENE EIGHT]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -162,7 +219,10 @@ As you search the living room, your house clutter rapidly begins to close in on 
 
 <span class="clear"></span>
 
-## DEATH FOUR
+
+## [DEATH FOUR]("")
+---
+
 <img src="images/deathIcon1.png">
 You try to keep the walls from closing in by prying them open, but they're way to strong. You're slowly squished until you pop like a grape.
 
@@ -171,7 +231,10 @@ You try to keep the walls from closing in by prying them open, but they're way t
 <span class="clear"></span>
 
 
-## SCENE NINE
+
+## [SCENE NINE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<a href="/scene-ten"><img src="images/pipeIcon.png"></a>
@@ -187,7 +250,10 @@ You gather up the clutter around your living room and look for a place to chuck 
 
 <span class="clear"></span>
 
-## DEATH FIVE
+
+## [DEATH FIVE]("")
+---
+
 <img src="images/deathIcon2.png">
 You frantically look for the Source Key in a race against the clock, but there's too much stuff to sift through and it looks like all your junk is now multiplying. You're squished to death under the weight of your own apartment objects.
 
@@ -195,7 +261,10 @@ You frantically look for the Source Key in a race against the clock, but there's
 
 <span class="clear"></span>
 
-## DEATH SIX
+
+## [DEATH SIX]("")
+---
+
 <img src="images/deathIcon3.png">
 You try to unlock the window, but the window is as stubborn as you remember. The window just laughs at you as you're drowned to death under the weight of your own clutter.
 
@@ -204,7 +273,10 @@ You try to unlock the window, but the window is as stubborn as you remember. The
 <span class="clear"></span>
 
 
-## SCENE TEN
+
+## [SCENE TEN]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -218,7 +290,10 @@ GREAT THINKING! You smash the window open with the drain pipe! Immediately you s
 
 <span class="clear"></span>
 
-## PRIZE TWO
+
+## [PRIZE TWO]("")
+---
+
 <img src="images/keyIcon.png" class="item-reward">
 <span class="clear"></span>
 
@@ -233,7 +308,10 @@ GREAT THINKING! You smash the window open with the drain pipe! Immediately you s
 <span class="clear"></span>
 
 
-## SCENE ELEVEN
+
+## [SCENE ELEVEN]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<a href="/death-seven"><img src="images/pipeIcon.png"></a>
@@ -249,7 +327,10 @@ Now that you have the Source Key, it's time to defeat these damn demons! As you 
 
 <span class="clear"></span>
 
-## DEATH SEVEN
+
+## [DEATH SEVEN]("")
+---
+
 <img src="images/deathIcon1.png">
 You try to fight them with your drain pipe, but I wasn't kidding when I said they've grown much stronger. They rip you up into little tiny pieces.
 
@@ -259,7 +340,10 @@ You try to fight them with your drain pipe, but I wasn't kidding when I said the
 <span class="clear"></span>
 
 
-## SCENE TWELVE
+
+## [SCENE TWELVE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -275,7 +359,10 @@ That's right! You remember there's a sword under your bed. If you can attach the
 
 <span class="clear"></span>
 
-## DEATH EIGHT
+
+## [DEATH EIGHT]("")
+---
+
 <img src="images/deathIcon2.png">
 You try to climb over the demons, but your attempt turns into a violent version of crowd surfing. The demons have a frenzy gnawing you to pieces.
 
@@ -283,7 +370,10 @@ You try to climb over the demons, but your attempt turns into a violent version 
 
 <span class="clear"></span>
 
-## DEATH NINE
+
+## [DEATH NINE]("")
+---
+
 <img src="images/deathIcon3.png">
 You try to reason with demons, but they just laugh at you and then proceed to rip you to shreds. Demons are not to be reasoned with!
 
@@ -292,7 +382,10 @@ You try to reason with demons, but they just laugh at you and then proceed to ri
 <span class="clear"></span>
 
 
-## SCENE THIRTEEN
+
+## [SCENE THIRTEEN]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -314,7 +407,10 @@ You use the source key to carve a path through the demons to your bedroom. As so
 
 <span class="clear"></span>
 
-## PRIZE THREE
+
+## [PRIZE THREE]("")
+---
+
 <img src="images/swordIcon.png" class="item-reward">
 <span class="clear"></span>
 
@@ -327,7 +423,10 @@ You use the source key to carve a path through the demons to your bedroom. As so
 <span class="clear"></span>
 
 
-## SCENE FOURTEEN
+
+## [SCENE FOURTEEN]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -349,7 +448,10 @@ With the Demons taken care of, you rush for the door hoping to make it to your d
 
 <span class="clear"></span>
 
-## DEATH TEN
+
+## [DEATH TEN]("")
+---
+
 <img src="images/deathIcon1.png">
 You try to feed the door random objects in the house, but it only gets more and more hungry until finally it devours you alive! It is true, nothing in this universe can satisfy its hunger!
 
@@ -358,7 +460,10 @@ You try to feed the door random objects in the house, but it only gets more and 
 <span class="clear"></span>
 
 
-## STAND UP
+
+## [STAND UP]("")
+---
+
 <div class="bubble-speech bubble-left">
 	<p class="author"> Cutie From School </p>
 
@@ -374,7 +479,10 @@ You try to feed the door random objects in the house, but it only gets more and 
 - [>](/scene-fifteen)
 
 
-## SCENE FIFTEEN
+
+## [SCENE FIFTEEN]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<a href="/death-eleven"><img src="images/pipeIcon.png"></a>
@@ -389,7 +497,10 @@ You study the Door Monster carefully as you dodge its chomps. It's just a door, 
 
 <span class="clear"></span>
 
-## DEATH ELEVEN
+
+## [DEATH ELEVEN]("")
+---
+
 <img src="images/deathIcon2.png">
 You try to use your drain pipe to break off the dead bolt, but it ends up breaking the drain pipe instead. The door laughs as it chomps you up in one bite!
 
@@ -397,7 +508,10 @@ You try to use your drain pipe to break off the dead bolt, but it ends up breaki
 
 <span class="clear"></span>
 
-## DEATH TWELVE
+
+## [DEATH TWELVE]("")
+---
+
 <img src="images/deathIcon3.png">
 You try to stab the door with your sword, but it just devours you in one bite.
 
@@ -407,13 +521,19 @@ You try to stab the door with your sword, but it just devours you in one bite.
 <span class="clear"></span>
 
 
-## SCENE SIXTEEN
+
+## [SCENE SIXTEEN]("")
+---
+
 <!--<img src="images/geniusIcon03.png" class="item-reward">-->
+<img src="images/hallwayPortrait.png">
 GREAT THINKING! It suddenly occurs to you, why not just unlock the door? You stick the Source Key into the Door Monster's Lock and turn the key. The monster is defeated and your whole apartment turns back to normal.
-
+<br>
+<br>
 You exit your apartment, lock the door behind you and head off to meet your date.
-
-CONGRATULATIONS YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
+<br>
+<br>
+CONGRATULATIONS!!! YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
 
 
 
@@ -428,16 +548,22 @@ CONGRATULATIONS YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
 <span class="clear"></span>
 
 
-## SCENE TWO ALTERNATE
 
-You decide that it's probably better to get on the demons good side. Unfortunately, sweet talking them into letting you go on a date doesn't work. They're still pissed about when you tried to get rid of them the last time they haunted your apartment.
+## [SCENE TWO ALTERNATE]("")
+---
+
+
+You decide that it's probably better to get on the demon's good side. Unfortunately, sweet talking them into letting you go on a date doesn't work. They're still pissed about when you tried to get rid of them the last time they haunted your apartment.
 
 - [You offer them a gift](/chapter-two-three)
 
 
 <span class="clear"></span>
 
-## CHAPTER TWO-THREE
+
+## [CHAPTER TWO-THREE]("")
+---
+
 
 <img src="images/mochiIcon.png">
 A brilliant idea hits you! What do Demons love more than anything else? Souls! If you can just find your cat, Mochi, you can offer her soul up to the Demons and then they'll forgive you. Right?! Cats have nine souls anyways... or is it lives? Same difference.
@@ -447,7 +573,10 @@ A brilliant idea hits you! What do Demons love more than anything else? Souls! I
 
 <span class="clear"></span>
 
-## CHAPTER TWO-FOUR
+
+## [CHAPTER TWO-FOUR]("")
+---
+
 <img src="images/Evil_couch.gif" class="landscape">
 You go looking for your cat. To your horror, you catch a glimpse of Mochi just as she's being eaten by your stinky and decaying Zombie Couch. Of course! It's going to take forever to get Mochi out of that damn Zombie Couch.
 
@@ -458,7 +587,10 @@ You go looking for your cat. To your horror, you catch a glimpse of Mochi just a
 <span class="clear"></span>
 
 
-## SCENE SEVENTEEN
+
+## [SCENE SEVENTEEN]("")
+---
+
 
 Ok! Time to defeat the Zombie Couch. As you get closer you start to lose motivation. You're becoming lazier and lazier. OH NO!! The Zombie Couch has cast some weird spell on you! Suddenly you receive a buzzing message.
 
@@ -467,15 +599,21 @@ Ok! Time to defeat the Zombie Couch. As you get closer you start to lose motivat
 
 <span class="clear"></span>
 
-## DEATH THIRTEEN
+
+## [DEATH THIRTEEN]("")
+---
+
 <img src="images/deathIcon1.png">
-A little power nap won't hurt right? WRONG! That is the last nap you ever take. You do not wake up.
+A little power nap won't hurt right? WRONG! That is the last nap you'll ever take. You do not wake up.
 
 - [RESTART FROM CHECKPOINT](/scene-seventeen)
 
 <span class="clear"></span>
 
-## NOT A COUCH POTATO
+
+## [NOT A COUCH POTATO]("")
+---
+
 
 <div class="bubble-speech bubble-left">
 	<p class="author"> Cutie From School </p>
@@ -491,25 +629,34 @@ A little power nap won't hurt right? WRONG! That is the last nap you ever take. 
 
 - [>](/scene-eighteen)
 
-## SCENE EIGHTEEN
 
-It's from your date! They're not going to want to be involved with a Couch Potato. Through sheer desire, you snap out of your trance. As you do, the Couch opens up and wraps it's slimy tongue around you. It's strength is crazy! It's pulling you into the cushions.
+## [SCENE EIGHTEEN]("")
+---
+
+
+It's from your date! They're not going to want to be involved with a Couch Potato. Through sheer desire, you snap out of your trance. As you do, the Couch opens up and wraps its slimy tongue around you. Its strength is crazy! It's pulling you into the cushions.
 
 - [Grab a sharp object](/scene-nineteen)
 - [Pry yourself open](/death-fourteen)
 
 <span class="clear"></span>
 
-## DEATH FOURTEEN
+
+## [DEATH FOURTEEN]("")
+---
+
 <img src="images/deathIcon2.png">
-I wasn't kidding when I said it's strength is crazy! As you try to pry yourself free, it tightens its grip on you. You suffucate to death.
+I wasn't kidding when I said its strength is crazy! As you try to pry yourself free, it tightens its grip on you. You suffucate to death.
 
 - [RESTART FROM CHECKPOINT](/scene-seventeen)
 
 <span class="clear"></span>
 
 
-## SCENE NINETEEN
+
+## [SCENE NINETEEN]("")
+---
+
 
 <img src="images/spring_icon2.png">
 As you're about to be swallowed whole, you yank out a spring from inside the Zombie Couch's mouth and use it to slice off its tongue! The Zombie Couch releases its grip on you and spits out Mochi! Success! Mochi pops out and runs away as your couch dies.
@@ -518,7 +665,10 @@ As you're about to be swallowed whole, you yank out a spring from inside the Zom
 
 <span class="clear"></span>
 
-## PRIZE FOUR
+
+## [PRIZE FOUR]("")
+---
+
 <div class="chest">
 	<img src="images/pipeIcon.png">
 	<img src="images/keyIcon.png">
@@ -538,7 +688,10 @@ You've found a drain pipe, a key, a sword, a $5 bill and a lazer pointer in the 
 <span class="clear"></span>
 
 
-## SCENE TWENTY
+
+## [SCENE TWENTY]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -563,7 +716,10 @@ Now that the Couch is dead, time to catch Mochi so you can trade her soul for ro
 
 <span class="clear"></span>
 
-## DEATH FIFTEEN
+
+## [DEATH FIFTEEN]("")
+---
+
 <img src="images/deathIcon1.png">
 As soon as you try to pet her, she hisses... she came here to fight! She scratches up your face badly. There's no way you can go on a date looking like this!
 
@@ -572,7 +728,10 @@ As soon as you try to pet her, she hisses... she came here to fight! She scratch
 <span class="clear"></span>
 
 
-## SCENE TWENTY-ONE
+
+## [SCENE TWENTY-ONE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -598,7 +757,10 @@ Mochi is growing bigger and bigger! If you can just get to the catnip in the kit
 
 <span class="clear"></span>
 
-## DEATH SIXTEEN
+
+## [DEATH SIXTEEN]("")
+---
+
 <img src="images/deathIcon2.png">
 You attempt to fight Mochi, but she hurls fur balls at you and proceeds to scratch up your entire face. There's no way you can go on a date looking like this!
 
@@ -607,7 +769,10 @@ You attempt to fight Mochi, but she hurls fur balls at you and proceeds to scrat
 
 <span class="clear"></span>
 
-## DEATH SEVENTEEN
+
+## [DEATH SEVENTEEN]("")
+---
+
 <img src="images/deathIcon3.png">
 Mochi isn't having it! She grows so large and starts to hurl fur balls at you, while scratching up your entire face. There's no way you can go on a date looking like this!
 
@@ -617,7 +782,10 @@ Mochi isn't having it! She grows so large and starts to hurl fur balls at you, w
 <span class="clear"></span>
 
 
-## SCENE TWENTY-TWO
+
+## [SCENE TWENTY-TWO]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -640,7 +808,10 @@ GREAT THINKING! You use the lazer pointer to distract Mochi. She frantically cha
 
 <span class="clear"></span>
 
-## PRIZE FIVE
+
+## [PRIZE FIVE]("")
+---
+
 <img src="images/soulIcon2.png">
 Mochi shrunk back down! You now have a cat soul to trade!
 
@@ -651,7 +822,10 @@ Mochi shrunk back down! You now have a cat soul to trade!
 <span class="clear"></span>
 
 
-## SCENE TWENTY-THREE
+
+## [SCENE TWENTY-THREE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -674,7 +848,10 @@ With Mochi in hand, you try to offer the demons her soul as a "sorry gift", but 
 
 <span class="clear"></span>
 
-## DEATH SEVENTEEN TWO
+
+## [DEATH SEVENTEEN TWO]("")
+---
+
 <img src="images/deathIcon1.png">
 This does not go over well with the Demons. They, in return, keep you from leaving the apartment to go on your date, all the while tell YOU to suck it up.
 
@@ -683,7 +860,10 @@ This does not go over well with the Demons. They, in return, keep you from leavi
 <span class="clear"></span>
 
 
-## SCENE TWENTY-FOUR
+
+## [SCENE TWENTY-FOUR]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -704,7 +884,10 @@ You try to bargain with them, but they don't know what else you could possibly p
 
 <span class="clear"></span>
 
-## DEATH EIGHTEEN
+
+## [DEATH EIGHTEEN]("")
+---
+
 <img src="images/deathIcon2.png">
 Unwise! You offer up your own soul and the demons take it immediately. Within seconds you drop to the floor with a lifeless gaze. I don't think you'll be making your date tonight.
 
@@ -712,7 +895,10 @@ Unwise! You offer up your own soul and the demons take it immediately. Within se
 
 <span class="clear"></span>
 
-## DEATH NINETEEN
+
+## [DEATH NINETEEN]("")
+---
+
 <img src="images/deathIcon3.png">
 You hand over the lazer pointer you pulled from the Zombie Couch. The Demons give you a look like, "What are we supposed to do with this?" They're offeneded and determined not let you go on your date.
 
@@ -721,7 +907,10 @@ You hand over the lazer pointer you pulled from the Zombie Couch. The Demons giv
 <span class="clear"></span>
 
 
-## SCENE TWENTY-FIVE
+
+## [SCENE TWENTY-FIVE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -741,7 +930,10 @@ You offer the Demons the $5 bill you found in the couch. They're quick to snatch
 
 - [>](/running-late)
 
-## RUNNING LATE
+
+## [RUNNING LATE]("")
+---
+
 <div class="bubble-speech bubble-left">
 	<p class="author"> Cutie From School </p>
 
@@ -767,7 +959,10 @@ You offer the Demons the $5 bill you found in the couch. They're quick to snatch
 <span class="clear"></span>
 
 
-## SCENE THREE ALTERNATE
+
+## [SCENE THREE ALTERNATE]("")
+---
+
 
 <img src="images/kitchenDevilCoffeeMachine.gif">
 This apartment is so cluttered, who knows where the key could be. Maybe it's better to just craft the Source Key instead of go looking for it. As you head to the kitchen to grab the ingredients, it goes up in a blaze of fire. An angry Kitchen Devil (a coffee maker) appears.
@@ -776,7 +971,10 @@ This apartment is so cluttered, who knows where the key could be. Maybe it's bet
 
 <span class="clear"></span>
 
-## CHAPTER THREE-FOUR
+
+## [CHAPTER THREE-FOUR]("")
+---
+
 You go to unplug the annoying Kitchen Devil, but as you get closer the fire gets hotter and hotter! You have to keep your distance or else you'll sure melt into a pile of molten, human ash. If only you could put out the fire...
 
 - [Search for water in the bathroom](/scene-twenty-six)
@@ -786,7 +984,10 @@ You go to unplug the annoying Kitchen Devil, but as you get closer the fire gets
 
 <span class="clear"></span>
 
-## SCENE TWENTY-SIX
+
+## [SCENE TWENTY-SIX]("")
+---
+
 <img src="images/sinkSlugPortrait.gif">
 You go to the bathroom in search of water, but when you turn on the faucet a bunch of Demon Slugs slither out. GROSS! They're poisonous and are making their way towards you. They have to have a weakness of some kind...
 
@@ -798,7 +999,10 @@ You go to the bathroom in search of water, but when you turn on the faucet a bun
 
 <span class="clear"></span>
 
-## DEATH TWENTY
+
+## [DEATH TWENTY]("")
+---
+
 <img src="images/deathIcon1.png">
 What did I just say!? They're poisonous! You pick them up with your bare hands and immediately break out in hives and boils. There's no way you can go on a date looking like this!
 
@@ -807,18 +1011,44 @@ What did I just say!? They're poisonous! You pick them up with your bare hands a
 <span class="clear"></span>
 
 
-## SCENE TWENTY-SEVEN
+
+## [SCENE TWENTY-SEVEN]("")
+---
+
 <img src="images/remoteTorchIcon.png">
 You race back to the living room and grab a shirt. You wrap it around your remote and light it on fire using the flames from the kitchen. When you turn around the whole apartment is infested with these poisenous slugs. Ugh! Leaving the faucet running is a bad habit.
 
 <span class="clear"></span>
 
-- [Burn this baby down!](/scene-twenty-eight)
+- [Burn this baby down!](/pigsty)
 - [Try to run through them](/death-twenty-one)
 
 <span class="clear"></span>
 
-## DEATH TWENTY-ONE
+
+## [PIGSTY]("")
+---
+
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	You know, my last partner lived in a pigsty. 
+<span class="clear"></span>
+    	Don't know why I said that. I bet your not like them. You're special.
+  	</div>
+</div>
+
+- [>](/scene-twenty-eight)
+
+
+
+
+## [DEATH TWENTY-ONE]("")
+---
+
 <img src="images/deathIcon2.png">
 Yeah, that's not gonna work. You see, like I said, these are poisonous slugs. They quickly swarm you and cover your body. You immediately break out in hives and boils. There's no way you can go on a date looking like this!
 
@@ -827,7 +1057,10 @@ Yeah, that's not gonna work. You see, like I said, these are poisonous slugs. Th
 <span class="clear"></span>
 
 
-## SCENE TWENTY EIGHT
+
+## [SCENE TWENTY EIGHT]("")
+---
+
 <img src="images/toilet.png">
 You light your whole apartment on fire. Not exactly solving the problem, but it's some progress. With the slugs burning to death, you go to the bathroom and rip out the toilet, causing a massive flood in your apartment.
 
@@ -835,7 +1068,10 @@ You light your whole apartment on fire. Not exactly solving the problem, but it'
 
 <span class="clear"></span>
 
-## PRIZE SIX
+
+## [PRIZE SIX]("")
+---
+
 <div class="chest">
 	<img src="images/pipeIcon.png">
 	<img src="images/emptyBottleIcon.png">
@@ -851,7 +1087,10 @@ You found an empty bottle in your medicine cabinet, a Drain Pipe and a Soap Bar!
 <span class="clear"></span>
 
 
-## SCENE TWENTY-NINE
+
+## [SCENE TWENTY-NINE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<a href="/death-twenty-four"><img src="images/pipeIcon.png"></a>
@@ -867,7 +1106,10 @@ You head back to the kitchen, but the you discover the flood was not enough to k
 <span class="clear"></span>
 
 
-## SCENE THIRTY
+
+## [SCENE THIRTY]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<a href="/death-twenty-three"><img src="images/pipeIcon.png"></a>
@@ -885,7 +1127,10 @@ You fill your empty bottle with toilet water and throw it at the Coffee Maker. T
 
 <span class="clear"></span>
 
-## DEATH TWENTY-TWO
+
+## [DEATH TWENTY-TWO]("")
+---
+
 <img src="images/deathIcon3.png">
 You drink the toilet water. I don't know why, but you do. And then immediately you feel sick to your stomach. There's no way you're going to make your date now.
 
@@ -894,7 +1139,10 @@ You drink the toilet water. I don't know why, but you do. And then immediately y
 
 <span class="clear"></span>
 
-## DEATH TWENTY-THREE
+
+## [DEATH TWENTY-THREE]("")
+---
+
 <img src="images/deathIcon1.png">
 You waist away hours trying to figure out how to turn a drain pipe into a key. Yeah, that didn't work and you missed your date.
 
@@ -903,7 +1151,10 @@ You waist away hours trying to figure out how to turn a drain pipe into a key. Y
 
 <span class="clear"></span>
 
-## DEATH TWENTY-FOUR
+
+## [DEATH TWENTY-FOUR]("")
+---
+
 <img src="images/deathIcon2.png">
 You throw your drain pipe at the Kitchen Devil Coffee Maker! It's not effective. At all. The Kitchen Devil laughs at you before burning your apartment to the ground. At least you have insurance...
 
@@ -912,7 +1163,10 @@ You throw your drain pipe at the Kitchen Devil Coffee Maker! It's not effective.
 <span class="clear"></span>
 
 
-## SCENE THIRTY ONE
+
+## [SCENE THIRTY ONE]("")
+---
+
 <div class="item-container">
 <div class="items">
 	<img src="images/pipeIcon.png">
@@ -934,7 +1188,10 @@ GREAT THINKING! You use the soap bar and some utensils from the kitchen to craft
 <span class="clear"></span>
 
 
-## SCENE FOUR ALTERNATE
+
+## [SCENE FOUR ALTERNATE]("")
+---
+
 
 <img src="images/showerHose.gif">
 
@@ -945,7 +1202,10 @@ You begin searching for a way out of the bathroom, when suddenly the walls begin
 <span class="clear"></span>
 
 
-## SCENE-THIRTY-TWO
+
+## [SCENE-THIRTY-TWO]("")
+---
+
 
 You try to break free from the strangling shower hose, but the more you struggle the more it tightens around your neck. You feel the breath leave your body slowly...
 
@@ -954,7 +1214,31 @@ You try to break free from the strangling shower hose, but the more you struggle
 
 <span class="clear"></span>
 
-## DEATH TWENTY FIVE
+
+
+## [YOU KNOW]("")
+---
+
+<div class="bubble-speech bubble-left">
+	<p class="author"> Cutie From School </p>
+
+	<img src="images/phoneIcon.png" width="64">
+
+  	<div class="message">
+    	You know, I'm really glad you asked me on a date. 
+<span class="clear"></span>
+    	I just... I've liked you for a long time. Anyways, I'm at the restaurant waiting...
+  	</div>
+</div>
+
+- [>](/scene-thirty-four)
+
+
+
+
+## [DEATH TWENTY FIVE]("")
+---
+
 <img src="images/deathIcon1.png">
 You try to pry yourself free... Not a good idea. Like I said, the more you struggle, the more it tightens the cord tightens around your neck. It isn't long before you drift off into a deep long sleep.
 
@@ -963,16 +1247,22 @@ You try to pry yourself free... Not a good idea. Like I said, the more you strug
 <span class="clear"></span>
 
 
-## SCENE-THIRTY-THREE
+
+## [SCENE-THIRTY-THREE]("")
+---
+
 <img src="images/mirrorPortrait.png">
 You try to reach for the mirror so you can break it and use the glass shards to escape the death grip. Unfortunately, the shower hose pulls you into the bathtub like forceful vines. Your hands streak across your window as you take your final breath...
 
-- [Break the window](/scene-thirty-four)
+- [Break the window](/you-know)
 - [Turn on the shower water](/death-twenty-six)
 
 <span class="clear"></span>
 
-## DEATH TWENTY SIX
+
+## [DEATH TWENTY SIX]("")
+---
+
 <img src="images/deathIcon2.png">
 You reach for the shower knob and turn on the water. Not good. The water is now flowing through the cord, making it harder to breath. The bath tub fills up with water. The shower hose pulls you deeper and deeper into the infinite abyss...
 
@@ -981,16 +1271,22 @@ You reach for the shower knob and turn on the water. Not good. The water is now 
 <span class="clear"></span>
 
 
-## SCENE-THIRTY-FOUR
+
+## [SCENE-THIRTY-FOUR]("")
+---
+
 
 <img src="images/windowIcon.png">
-You smash the window, use a glass shard to cut yourself free from cord. You escape through the window and scale the side of your apartment until you enter through your living room window.
+You smash the window and use a glass shard to cut yourself free from cord. You escape through the window and scale the side of your apartment until you enter through your living room window.
 
 - [>](/prize-last)
 
 <span class="clear"></span>
 
-## PRIZE LAST
+
+## [PRIZE LAST]("")
+---
+
 <img src="images/pipeIcon.png" class="item-reward">
 <span class="clear"></span>
 
