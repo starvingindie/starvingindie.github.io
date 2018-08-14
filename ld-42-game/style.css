@@ -296,3 +296,7 @@ span.clear { clear: left; display: block; }
 #slideout_inner:hover {
   left: 0;
 }
+
+audio{
+	float: right;
+}
