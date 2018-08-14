@@ -533,7 +533,7 @@ GREAT THINKING! It suddenly occurs to you, why not just unlock the door? You sti
 You exit your apartment, lock the door behind you and head off to meet your date.
 <br>
 <br>
-CONGRATULATIONS!!! YOU'VE ACHIEVED ONE OF FOUR ENDINGS!
+CONGRATULATIONS!!! YOU'VE ACHIEVED ONE OF FOUR UNIQUE PLAYTHROUGHS!
 
 
 
