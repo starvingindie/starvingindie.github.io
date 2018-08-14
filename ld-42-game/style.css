@@ -271,6 +271,7 @@ span.clear { clear: left; display: block; }
 }
 
 #slideout_inner {
+  display: none;
   padding: 1em;
   background-color: #FF77A8;
   border: 1px solid #FFF1E8;
@@ -291,6 +292,7 @@ span.clear { clear: left; display: block; }
   margin-bottom: 1em;
 }
 #slideout:hover #slideout_inner {
+  display: block;
   left: 0;
 }
 
