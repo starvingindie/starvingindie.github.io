@@ -273,11 +273,12 @@ span.clear { clear: left; display: block; }
 #slideout_inner {
   padding: 1em;
   background-color: #FF77A8;
+  border: 1px solid #FFF1E8;
   color: black;
   margin-right: 2em;
   position: fixed;
   top: 40px;
-  left: -100%;
+  left: -200%;
   -webkit-transition-duration: 0.2s;
   -moz-transition-duration: 0.2s;
   -o-transition-duration: 0.2s;
