@@ -1,8 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+html,body, .container { height: 100%; }
+
+.container{
+	max-width: 75%;
+	background-color: black;
+	height: 100%;
+	margin: auto;
+	overflow-x: hidden; 
+	overflow-y: scroll; 
+	text-transform: uppercase; 
+	border: 1em solid black;
+	border-image: url('images/textMessage_uiWindow.png') 27 27 27 27;
+}
+#main{
+	width: 100%;
+	background-color: black;
+	
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
 html {
   background-image: url(images/BGTile03.png);
-  background-repeat: repeat-x; 
+  background-repeat: repeat-x repeat-y; 
 }
+
+
 body {
   margin: 0 auto;
   max-width: 100%;
@@ -29,14 +55,7 @@ hr{
 	margin-top: 3em;
 }
 #main {
-	max-width: 75%;
-	height: 100%;
-	background-color: black;
-	margin: auto;
-	padding: 5%;
-	border: 1em solid;
-	text-transform: uppercase; 
-	border-image: url('images/textMessage_uiWindow.png') 27 27 27 27;
+	padding: 0%;
 }
 
 h1, h2 {
@@ -256,6 +275,13 @@ span.clear { clear: left; display: block; }
 		}
 
 
+
+
+
+
+
+
+
 #slideout {
   margin-left: 0.2em;
   border: 1px solid #FF77A8;
@@ -273,8 +299,8 @@ span.clear { clear: left; display: block; }
 #slideout_inner {
   display: none;
   padding: 1em;
-  background-color: #FF77A8;
   border: 1px solid #FFF1E8;
+  background-color: #FF77A8;
   color: black;
   margin-right: 2em;
   position: fixed;
@@ -301,5 +327,5 @@ span.clear { clear: left; display: block; }
 }
 
 audio{
-	float: right;
+	margin-left: 50%;
 }
