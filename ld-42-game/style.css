@@ -254,3 +254,45 @@ span.clear { clear: left; display: block; }
 		.message {
 			margin-left: 50px;
 		}
+
+
+#slideout {
+  margin-left: 0.2em;
+  border: 1px solid #FF77A8;
+  background-color: Black;
+  color: #FFF1E8;
+  position: fixed;
+  top: 40px;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
+#slideout_inner {
+  padding: 1em;
+  background-color: #FF77A8;
+  color: black;
+  margin-right: 2em;
+  position: fixed;
+  top: 40px;
+  left: -100%;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+#slideout:hover{
+  left: 400px;
+}
+#slideout img{
+  margin-bottom: 1em;
+}
+#slideout:hover #slideout_inner {
+  left: 0;
+}
+
+#slideout_inner:hover {
+  left: 0;
+}
