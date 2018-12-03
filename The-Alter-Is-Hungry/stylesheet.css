@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GravityRegular5';
+    src: url('GravityRegular5.woff2') format('woff2'),
+        url('GravityRegular5.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
